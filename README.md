@@ -28,7 +28,6 @@ O desafio consistia em recriar o layout fornecido neste [link do Figma](https://
 
 💻 **- HTML**  
 💻 **- CSS**  
-💻 **- JavaScript**
 
 ## Próximos Passos
 
